@@ -65,11 +65,3 @@ Now that we have converted our input image into a suitable form for our Multi-Le
 
 IMAGE SEGMENTATION
 
-https://github.com/Link009/LPEX/blob/master/Extraction.py
-https://learndeltax.blogspot.com/2016/02/number-plate-detection-in-opencv-python.html
-https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv
-https://pdfs.semanticscholar.org/2455/9fa9f8b5f18e88c0ebc3711554e99106915e.pdf
-https://gist.github.com/nikgens/1a129d620978a4abc6a9a30f5f66e0d3
-https://medium.com/@bhadreshpsavani/how-to-use-tesseract-library-for-ocr-in-google-colab-notebook-5da5470e4fe0
-
-https://github.com/apoorva-dave/LicensePlateDetector
